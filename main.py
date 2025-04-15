@@ -54,7 +54,7 @@ def main():
         elif choice == '3':
             customer.display_details()
         elif choice == '4':
-            print("Exiting... Thank you!")
+            print("Exiting, Thank you!")
             break
         else:
             print("Invalid option.")
